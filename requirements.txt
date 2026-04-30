@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
